@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/images/cover.png" alt="Halo: a quiet clock for your charging hours" width="100%"></p>
+
 # Halo
 
 *A quiet clock for your charging hours.*
