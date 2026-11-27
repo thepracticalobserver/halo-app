@@ -113,7 +113,7 @@ Notes:
   hidden and everything works normally.
 - On Samsung phones, set Halo's battery usage to **Unrestricted** if it ever stops opening.
 - Halo has no ads and does not use the internet. Calendar access (Agenda style only) is read-only and stays on the phone. See the [privacy page](PRIVACY.md).
-- **Check your download:** each release lists the APK's SHA-256 checksum and the signing certificate fingerprint. Compare them (`shasum -a 256 Halo-1.0.6.apk`) before installing.
+- **Check your download:** each release lists the APK's SHA-256 checksum and the signing certificate fingerprint. Compare them (`shasum -a 256 Halo-1.0.7.apk`) before installing.
 - **Found a bug or have an idea?** Open an [issue](../../issues).
 
 ## Credits and licences
