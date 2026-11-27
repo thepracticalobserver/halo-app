@@ -31,8 +31,8 @@ turn it sideways, and a full-screen calendar or clock fades in. Turn it upright 
 | ![Calendar](docs/images/style-calendar.png) | ![Analog](docs/images/style-analog.png) |
 | **Lines** | **Digital** |
 | ![Lines](docs/images/style-lines.png) | ![Digital](docs/images/style-digital.jpg) |
-| **Float** | |
-| ![Float](docs/images/style-float.png) | |
+| **Float** | **Agenda** |
+| ![Float](docs/images/style-float.png) | ![Agenda](docs/images/style-agenda.png) |
 
 - **Calendar**: Monday-first month grid with today circled, a large serif date behind it, the month and the time on
   one line (aligned with the first and last weekday letters).
